@@ -3,3 +3,5 @@
 /DioramaProjectGithub/Content/CLASE05/MHC_person01.uasset filter=lfs diff=lfs merge=lfs -text
 /DioramaProjectGithub/Content/Optional/Clothing/OA_DefaultGarment.uasset filter=lfs diff=lfs merge=lfs -text
 /DioramaProjectGithub/Content/Optional/Grooms/GroomMesh/MH_Groom_Head.uasset filter=lfs diff=lfs merge=lfs -text
+/DioramaProjectGithub/Content/MetaHumans/MHC_Jota1/MHC_person01.uasset filter=lfs diff=lfs merge=lfs -text
+/DioramaProjectGithub/Content/MetaHumans/MHC_person01.uasset filter=lfs diff=lfs merge=lfs -text
